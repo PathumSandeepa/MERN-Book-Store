@@ -70,32 +70,32 @@ export const mongoDBURL = 'mongodb+srv://**********:******@*************.mongodb
 
 <h3>Home Page (Table View):</h3>
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/3f511983-33ea-4948-ab7a-832fb39bf297" alt="Home Page Table View Screenshot" width="600">
+  <img src="https://github.com/user-attachments/assets/24e1614b-b4e6-45f4-87f1-8493b7268ab9" alt="Home Page Table View Screenshot" width="600">
 </p>
 
 <h3>Home Page (Card View):</h3>
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/c7457823-4376-443b-a568-fea614e648a8" alt="Home Page Card View Screenshot" width="600">
+  <img src="https://github.com/user-attachments/assets/830ec704-a569-4427-894a-ec0509e38dc2" alt="Home Page Card View Screenshot" width="600">
 </p>
 
 <h3>Create Book:</h3>
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/353b99f1-563e-48fe-95aa-b94769da6cb7" alt="Create Book View Screenshot" width="600">
+  <img src="https://github.com/user-attachments/assets/7bf3533f-f193-4fea-9a77-7942d219b349" alt="Create Book View Screenshot" width="600">
 </p>
 
 <h3>Edit Book:</h3>
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/bf1cae6f-4c83-4cb8-9f44-b35291d81c3a" alt="Edit Book View Screenshot" width="600">
-
+  <img src="https://github.com/user-attachments/assets/d875a3e0-893d-4a0d-a48b-38bf3aaae87a" alt="Edit Book View Screenshot" width="600">
+</p>
 
 <h3>Delete Book:</h3>
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/b0aab8ee-8b2c-41eb-97d1-4965360223c2" alt="Delete Book View Screenshot" width="600">
+  <img src="https://github.com/user-attachments/assets/be1044fd-d812-4846-b271-fc0e2fe4b92f" alt="Delete Book View Screenshot" width="600">
 </p>
 
 <h3>Show Book:</h3>
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/911e598d-57d9-4a0b-b9cd-076c00df62de" alt="Show Book View Screenshot" width="600">
+  <img src="https://github.com/user-attachments/assets/f4c0c413-5a64-43b3-a7f0-a16c5e36e493" alt="Show Book View Screenshot" width="600">
 </p>
 
 <h2>📝 How to Get MongoDB URL:</h2>
