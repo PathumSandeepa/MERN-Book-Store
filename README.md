@@ -32,7 +32,7 @@ export const mongoDBURL = 'mongodb+srv://**********:******@*************.mongodb
     <ul>
       <li>Click the plus icon in the top right corner to navigate to the "Create Book" page.</li>
       <li>Fill in the book name, author, and publish year to create a new book.</li>
-      <li>After creating a new book, you will be redirected to the home page where the new book will be listed.</li>.
+      <li>After creating a new book, you will be redirected to the home page where the new book will be listed.</li>
     </ul>
   </li>
   <li>
